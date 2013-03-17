@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<string id="st_antirad">
+<text> Anti-radiation drugs </text>
+</string>
+<string id="st_antirad_descr">
+<text> Mexamine anti-radiation medicine is a common sight in the Zone. When used, it causes constriction of peripheral blood vessels and oxygen deprivation in order to treat radiation sickness. Most people tolerate this drug, although in some cases slight nausea, dizziness, abdominal pain or vomiting can occur. </text>
+</string>
+<string id="st_bandage">
+<text> Bandage </text>
+</string>
+<string id="st_bandage_descr">
+<text> An aseptic bandage roll, designed to stop bleeding and prevent wound infection. In case of normal bleeding simply dressing the wound suffices, however serious injuries, such as a ruptured artery, still requires proper medical attention. </text>
+</string>
+<string id="st_binocular_name">
+<text> Binoculars </text>
+</string>
+<string id="st_binocular_descr">
+<text> Military binoculars with adjustable zoom (up to 7.5x). Makes examining distant objects much easier. </text>
+</string>
+<string id="st_bread">
+<text> Bread </text>
+</string>
+<string id="st_bread_descr">
+<text> It's hard to say who manages to bake these loaves in the Zone or smuggle them in, but the bread isn't contaminated and remains perfectly edible. Well, at least none of the stalkers complained about it.</text>
+</string>
+<string id="st_conserva">
+<text> Canned meat </text>
+</string>
+<string id="st_conserva_descr">
+<text> A tin can with food, originating in an army warehouse raided by stalkers. The manufacturer is unknown, as the label fell off a long time ago. It also looks like the expiration date has come and gone. </text>
+</string>
+<string id="st_detector1">
+<text> Echo Detector </text>
+</string>
+<string id="st_detector1_descr">
+<text> This anomaly detector is basic and outdated. It emits an audio signal when artifact emissions enter the analysis chamber in the device. It can register their presence and gauge distance to them, informing the user with beeps - the closer he is, the more tones the device emits. Due to the simplicity of its design and the primitive antenna it can only detect basic, common artifacts. </text>
+</string>
+<string id="st_detector2">
+<text> Bear Detector </text>
+</string>
+<string id="st_detector2_descr">
+<text> A current generation anomaly detector. With an anomalous field locator and an LED display, it can not only detect artifacts but also determine their location and indicate the direction in which they lie. A more advanced antenna detects a wider range of artifacts, although its usefulness is limited due to an outdated database hard coded into the device. </text>
+</string>
+<string id="st_detector3">
+<text> Veles Detector </text>
+</string>
+<string id="st_detector3_descr">
+<text> A next generation scanner, widely used by scientists. With three advanced detection ports, the device triangulates the location of the artifact and shows it on its LCD display. Of course, it can also detect radiation and anomalous fields. Thanks to its thorough search mode, it can detect all known artifacts.</text>
+</string>
+<string id="st_detector4">
+<text> Svarog Prototype Detector</text>
+</string>
+<string id="st_detector4_descr">
+<text> A prototype anomaly detector with extended functionality. In addition to detecting artifacts, its program can recognize and display static zones of anomalous activity, whose signatures were catalogued in the database. Anomalies and artifacts both appear on the device's LCD display. With its intricate search software and extremely refined sensors, it can theoretically detect artifacts and anomalies with abnormal signatures, which have not yet been analyzed by scientists. </text>
+</string>
+<string id="st_device_torch_name">
+<text> Torch </text>
+</string>
+<string id="st_device_torch_descr">
+<text> A head mounted lamp, useful for any stalker stranded in darkness. However, the light can attract unwanted guests.</text>
+</string>
+<string id="st_drug_anabiotic">
+<text> Anabiotics </text>
+</string>
+<string id="st_drug_anabiotic_descr">
+<text> An experimental drug developed for research groups operating in the Zone. Its primary ingredient, tetradotoksin (AKA "Zombie Powder"), triggers a paralysis of the central nervous system, theoretically allowing an unprotected stalker to survive an emission. However, adverse side effects, clinical trial failure and ambiguous field test results put its effectiveness in question. </text>
+</string>
+<string id="st_drug_antidot">
+<text> Antidote </text>
+</string>
+<string id="st_drug_antidot_descr">
+<text> Antitoxin Medicine IP2 is an amalgam of various agents mitigating poisoning: metoclopramide, pyridoxine, thiamine, riboxinum and others. When ingested, it releases substances capable of neutralizing all natural and synthetic toxins in the bloodstream. It's a rare sight in the Zone, as most stalkers rely on their suits and gas masks for protection, rather than this long lasting drug.</text>
+</string>
+<string id="st_drug_booster">
+<text> Hercules </text>
+</string>
+<string id="st_drug_booster_descr">
+<text> Artificial steroids, similar in chemical composition to testosterone. Widely used by stalkers to increase their carrying capacity temporarily. Long lasting effect. </text>
+</string>
+<string id="st_drug_coagulant">
+<text> Periwinkle </text>
+</string>
+<string id="st_drug_coagulant_descr">
+<text> Vicasol is a synthetic analog of vitamin C, resulting in an increased rate of blood coagulation. Prized among stalkers, as it allows the body to quickly close wounds and stop bleeding. Long lasting effect. </text>
+</string>
+<string id="st_drug_psy_blockade">
+<text> Psi block </text>
+</string>
+<string id="st_drug_psy_blockade_descr">
+<text> A powerful drug that blocks uncontrolled triggering of nerve synapses, protecting the user from anomalous psi activity for a short period. Interestingly, it also blocks all emotions of the user for the duration. Why it hasn't found uses outside the Zone is unknown. Long lasting effect. </text>
+</string>
+<string id="st_drug_radioprotector">
+<text> Radioprotectant </text>
+</string>
+<string id="st_drug_radioprotector_descr">
+<text> The Indralin-B190 radiation resistance booster was part of personal survival kits of NPP personnel. In the Zone, it replaced the extremely toxic cystamine hydrochloride FC1. Reduces the impact of gamma radiation on tissue of living organisms. It should be taken before exposure, as the increase in resistance is gradual, not instantaneous. Long lasting effect. </text>
+</string>
+<string id="st_energy_drink">
+<text> Energy Drink </text>
+</string>
+<string id="st_energy_drink_descr">
+<text> Often used on extended hikes through the Zone, when stopping and resting is not possible. It contains easily digestible carbohydrates, as well as substances that trigger the release of adrenaline into the bloodstream. </text>
+</string>
+<string id="st_energy_drink_2">
+<text> Caf-Pow </text>
+</string>
+<string id="st_energy_drink_2_descr">
+<text> Packed with more caffeine and B vitamins than is healthy, it's effects are often referred to as slowing time itself. User's claim they can run for miles without feeling tired, although the condition of their internal organs is likely in question after drinking this concoction. </text>
+</string>
+<string id="st_guitar_name">
+<text> Guitar </text>
+</string>
+<string id="st_guitar_descr">
+<text> I look at the trouble and see that it's raging, while my guitar gently weeps. </text>
+</string>
+<string id="st_kolbasa">
+<text> Kielbasa </text>
+</string>
+<string id="st_kolbasa_descr">
+<text> Made from a mix of chicken and soya, the "diet" sausage is often, for lack of other options, a stalker's breakfast, lunch and dinner all rolled into one. Due to the large amount of preservatives, it remains edible for a long time. </text>
+</string>
+<string id="st_medkit">
+<text> Medical kit </text>
+</string>
+<string id="st_medkit_descr">
+<text> An all-purpose medkit used to treat injuries of varying types and severity, such as common burns, wounds, or poisons. Considered an essential item among stalkers when traveling in the Zone. </text>
+</string>
+<string id="st_medkit_army">
+<text> Military medical kit </text>
+</string>
+<string id="st_medkit_army_descr">
+<text> A specialized medical set for treating injuries on the battlefield. Includes caplets of blood coagulation accelerators (primarily tranexamic acid), ibuprofen painkillers, tetracycline-based antibiotics and beta-glucan immunity boosters. Moreover, a simple surgical kit for extracting shrapnel and bullets is included. Standard Army issue, occasionally used by Duty members. </text>
+</string>
+<string id="st_medkit_science">
+<text> Scientific medical kit </text>
+</string>
+<string id="st_medkit_science_descr">
+<text> A medical set designed specifically for work in the Zone. Includes standard medical equipment for treating injuries as well as anti-radiation medicine. Unlike most kits, it also includes doses of Vicasol, Batilol and C-Naftazin. </text>
+</string>
+<string id="st_pda_descr">
+<text> A standard PDA, carried by some stalkers for multiple uses. This particular one has nothing interesting stored in its memory. </text>
+</string>
+<string id="st_pda_name">
+<text> PDA </text>
+</string>
+<string id="st_vodka">
+<text> Stolichnaya Vodka </text>
+</string>
+<string id="st_vodka_descr">
+<text> A strong Russian vodka from the Kaliningrad region. Goes down easily and significantly reduces the effects of radiation, but for obvious reasons should be enjoyed in moderation. </text>
+</string>
+<string id="st_drug_sunblocker">
+<text> Flame retardant </text>
+</string>
+<string id="st_drug_sunblocker_descr">
+<text> A complex combination of sunblocker, burn cream, and transdermal painkillers mixed into a gel that can be smeared over exposed skin. The result is an increased resistance to thermal activity and a greater overall tolerance of its effects on the user. </text>
+</string>
+<string id="st_flashlight">
+<text> Flashlight </text>
+</string>
+<string id="st_flashlight_descr">
+<text> A battery operated, single-bulb flashlight. Being a cheap and disposable tool, stalkers sometimes use them to safely trace their way back out of anomalous zones, or to shed light on dark areas ahead. Throwable. </text>
+</string>
+<string id="st_bolt">
+<text> Bolt </text>
+</string>
+</string_table> 
+

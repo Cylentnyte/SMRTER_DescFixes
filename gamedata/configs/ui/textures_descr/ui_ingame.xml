@@ -1,0 +1,55 @@
+<w>
+   <file name="wpn\wpn_crosshair">
+    <texture id="wpn_crosshair" x="0" y="0" width="1024" height="1024" />
+     <texture id="wpn_crosshair_add_l" x="0"	y="0" width="102" height="768" />
+     <texture id="wpn_crosshair_add_r" x="0"	y="0" width="102" height="768" />
+   </file>
+   <file name="wpn\wpn_crosshair_l85">
+    <texture id="wpn_crosshair_l85" x="0" y="0" width="1024" height="1024" />
+   </file>
+   <file name="wpn\wpn_crosshair_l85_2">
+    <texture id="wpn_crosshair_l85_2" x="0" y="0" width="1024" height="1024" />
+   </file>
+   <file name="wpn\wpn_crosshair_g36">
+    <texture id="wpn_crosshair_g36" x="0" y="0" width="1024" height="1024" />
+   </file>
+   <file name="wpn\wpn_crosshair_g36_2">
+    <texture id="wpn_crosshair_g36_2" x="0" y="0" width="1024" height="1024" />
+   </file>   
+   <file name="wpn\wpn_crosshair_rpg">
+    <texture id="wpn_crosshair_rpg" x="0" y="0" width="1024" height="1024" />
+   </file>
+   <file name="wpn\wpn_crosshair_acog">
+    <texture id="wpn_crosshair_acog" x="0" y="0" width="1024" height="1024" />
+   </file>   
+   <file name="wpn\wpn_crosshair_red">
+    <texture id="wpn_crosshair_red" x="0" y="0" width="1024" height="1024" />
+   </file>   
+      <file name="wpn\wpn_crosshair_fn2000">
+    <texture id="wpn_crosshair_fn2000" x="0" y="0" width="1024" height="1024" />
+   </file>
+   <file name="wpn\wpn_crosshair_white">
+    <texture id="wpn_crosshair_white" x="0" y="0" width="1024" height="1024" />
+   </file>     
+   <file name="wpn\wpn_crosshair_np1">
+    <texture id="wpn_crosshair_np1" x="0" y="0" width="1024" height="1024" />
+   </file>        
+   <file name="wpn\wpn_dot">
+    <texture id="wpn_dot" x="0" y="0" width="1024" height="1024" />
+   </file>
+      <file name="wpn\wpn_dot2">
+    <texture id="wpn_dot2" x="0" y="0" width="1024" height="1024" />
+   </file>
+      <file name="wpn\wpn_dot3">
+    <texture id="wpn_dot3" x="0" y="0" width="1024" height="1024" />
+   </file>
+      <file name="wpn\wpn_dot5">
+    <texture id="wpn_dot5" x="0" y="0" width="1024" height="1024" />
+   </file>
+      <file name="wpn\wpn_dot4">
+    <texture id="wpn_dot4" x="0" y="0" width="1024" height="1024" />
+   </file>   
+   <file name="wpn\wpn_crosshair_bino">
+    <texture id="wpn_crosshair_bino" x="0" y="0" width="1024" height="1024" />
+   </file>
+</w>

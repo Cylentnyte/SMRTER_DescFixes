@@ -1,0 +1,94 @@
+;---------------------------------------------------------------------------------------------
+;		Õ¿”◊Õ€…  Œ—“ﬁÃ ƒŒÀ√¿
+;---------------------------------------------------------------------------------------------
+
+[dolg_scientific_outfit]:outfit_base
+GroupControlSection	= spawn_group
+discovery_dependency 	= 
+$spawn 			= "outfit\dolg_scientific_outfit"
+$prefetch 			= 32
+class				= E_STLK
+cform           		= skeleton
+ef_equipment_type		= 4
+
+visual          		= dynamics\outfit_mod\dolg_scientific_outfit
+actor_visual		= actors\stalker_dolg\stalker_dolg_1.ogf
+player_hud_section	= hud_dolg_s
+
+inv_name			= dolg_scientific_outfit_name
+inv_name_short		= dolg_scientific_outfit_name
+description			= dolg_scientific_outfit_description
+
+inv_weight			= 9.0
+
+inv_grid_width		= 2
+inv_grid_height		= 3
+inv_grid_x			= 22
+inv_grid_y			= 6
+
+upgr_icon_x			= 628
+upgr_icon_y			= 911
+upgr_icon_width		= 316
+upgr_icon_height   	= 187
+full_icon_name		= npc_icon_dolg_scientific_outfit
+
+cost				= 20000
+slot				= 6
+full_scale_icon		= 8,6
+
+immunities_sect		= sect_dolg_scientific_outfit_immunities
+
+; MEDIUM RESISTANCE
+burn_protection 				= 0.0950
+shock_protection 				= 0.410
+radiation_protection 			= 0.0080
+chemical_burn_protection 		= 0.1200
+telepatic_protection 			= 0.0600
+strike_protection 				= 0.28
+explosion_protection 			= 0.35
+wound_protection				= 0.3
+
+hit_fraction_actor				= 0.65
+bones_koeff_protection			= actor_armor_exo
+
+helmet_avaliable			 	= false
+power_loss						= 1.0
+artefact_count                  = 1
+control_inertion_factor			= 2.5
+
+upgrades                = up_gr_firstab_dolg_heavy_outfit, up_gr_seconab_dolg_heavy_outfit, up_gr_thirdab_dolg_heavy_outfit, up_gr_fourtab_dolg_heavy_outfit
+installed_upgrades      =
+upgrade_scheme          = upgrade_scheme_dolg_heavy_outfit
+
+[sect_dolg_scientific_outfit_immunities]
+burn_immunity				= 0.03
+strike_immunity				= 0.01
+shock_immunity				= 0.03
+wound_immunity				= 0.015
+radiation_immunity			= 0.00
+telepatic_immunity			= 0.00
+chemical_burn_immunity			= 0.03
+explosion_immunity			= 0.03
+fire_wound_immunity			= 0.01
+
+[sect_dolg_scientific_outfit_immunities_1]
+burn_immunity				= 0.02
+strike_immunity				= 0.008
+shock_immunity				= 0.02
+wound_immunity				= 0.01
+radiation_immunity			= 0.00
+telepatic_immunity			= 0.00
+chemical_burn_immunity			= 0.02
+explosion_immunity			= 0.02
+fire_wound_immunity			= 0.008
+
+[sect_dolg_scientific_outfit_immunities_2]
+burn_immunity				= 0.015
+strike_immunity				= 0.005
+shock_immunity				= 0.015
+wound_immunity				= 0.007
+radiation_immunity			= 0.00
+telepatic_immunity			= 0.00
+chemical_burn_immunity			= 0.015
+explosion_immunity			= 0.015
+fire_wound_immunity			= 0.005

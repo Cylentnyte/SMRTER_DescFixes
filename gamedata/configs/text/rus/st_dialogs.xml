@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+ <string_table> 
+ <string id="about_quests_dialog_bandit_0"> 
+ <text> Tell me... </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_1"> 
+ <text> Whatcha want? </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_10"> 
+ <text> What do you think about Nimble? </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_101"> 
+ <text> About Nimble? All's good. I think I'll finally get this guy in a quiet place and feed this bitch a knuckle sandwich or two... </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_11"> 
+ <text> Did you hear about the Oasis? </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_111"> 
+ <text> Uh-h-uh... Uh, I heard a story once - about dying and not getting up! So, shortly, somehow, still at the Garbage, we got info from Hellhound, coords of the Oasis, fully certain! So, a big group of our boys went there. I could end here, since the end's not funny.. those that got back, were completely empty, no strength or hardiness. Most died a day or two later! That was enough for most of us to give up on looking for the Oasis. Only one of those guys lives to this day - Yoga's his name. </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_112"> 
+ <text> Heh, ya, I've heard, it's like a place, where all diseases go away and. I think it's a useful thing to have, heh: life free of haemorrhoids, hangovers or overdoses, heh, sounds like a great life, right? So, you just go dig for it, then tell us, mmmkay?</text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_113"> 
+ <text> And ya really wanna hear stuff about it? It's losers business, not for real men. Just look: yer sittin' in a bar, eating chow and stalkers come in, squealing like sliced pigs "I found it, I found the Oasis!". All can bet their heads where it is. But prolly, all the locations they give are in different spots! </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_12"> 
+ <text> Have you seen a stalker named Soroka?</text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_121"> 
+ <text> Ya, I did see the guy... one thing's sure, that's one big ass loser. When stalkers caught wind of his scheming, he hightailed it. I dunno where he's now, you go look for him yerself, fool. </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_122"> 
+ <text> Nope... that's the first time I've hard this name... </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_13"> 
+ <text> Do you know who could have stolen stuff from my personal locker? </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_131"> 
+ <text> Clearly a god-damn rat! Yer go ask the guys at Yanov about it. They hate rats, most will thank ye for tipping them off about him. </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_14"> 
+ <text> Who knows how to crack encrypted data? </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_141"> 
+ <text> There's a masta' at Yanov, Nitro. Seems he's not a Duty lover, since he's repaired a few captured PDAs for my pals. Just don't mention that. </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_143"> 
+ <text> Hey foo', this is real technical. Yer need a pro, a real hacker. I know a guy, who had a pal like that, shared some time with him. He bailed soon, while the other still has five years in the slammer on him. In short, there's a guy like that around, just not here. </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_15"> 
+ <text> I have a PDA which belonged to Duty's founder. Who might be interested in it? </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_151"> 
+ <text> There's a guy on Skadovsk, Owl's his name. Pays a chunk for every info you get him, so my peeps sold him a few of those stalkers PDAs. Real dude, too, doesn't ask questions... good buyer, man. </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_152"> 
+ <text> Anyone, hippies, fascists... Make the math: fascists will bury it, anarchs will raise hell, while Owl at the Creek will take the PDA, make it as if it never even existed. He will decide when to play this bargaining chip, and he'll have some real power then. Your choice. </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_16"> 
+ <text> Where can I find tools around here? </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_165"> 
+ <text> Yer a fool, but fools can think. If yer want surgery, go to the hospital, heh, heh. If yer want constructin' stuff - Jupiter or the quarry's yer place. And if you need tools for... mo-ter-nay-- ah, fuck, upgrades, go look at the old workshops. </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_166"> 
+ <text> No idea. I'm with the type o' peeps, who make livin' good without no tools, ha!.. Now, stop lookin' at me like that, smartass. </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_17"> 
+ <text> Who can unlock an UAV memory module? </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_171"> 
+ <text> I'm the right guy to come to! I break open tons o' those modules daily! Foo', you blind?! Do I look like a mechanic?! Go find a tech-guy or go to one of those... say-en-teests. Hey do ya want to give me brain hurt? </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_172"> 
+ <text> Hear this: last time I saw diskettes was back in the tech school. Ya want to know, go grab an egghead by his balls, okay? </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_18"> 
+ <text> Who can crack open a steel, securely locked case? </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_181"> 
+ <text> I met a kid recently, Foma, who was still drunk after drinking with Cardan on the ship. I think, that if you give him a reason, he'll do locksmithing for ya. </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_182"> 
+ <text> Yer, I can, with two steel bars. Just one problem: who'd be dragging steel bars along with them in the Zone? Inly a mad techie. So, go look for a tech do it for ya, man.</text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_19"> 
+ <text> I am looking for a stalker named Snag. Know where I could find him?</text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_191"> 
+ <text> Hell if I know... You got the Sultan in control of Skadovsk, so yer should know he's the big boss who knows where shifty guys are. </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_193"> 
+ <text> Yer, I heard of that loser... He's kind of not welcome at the Creek now, so don't be looking for him here, people want his balls. </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_2"> 
+ <text> Do you know anything about the crashed helicopters? </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_20"> 
+ <text> Who would want some real dirt on Duty's founder? </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_201"> 
+ <text> Fuck, man, everyone would want it! It's a fuckin' bomb! Listen, if yer not wanting to stir shit up, give it quietly to Owl on the Skadovsk. You'll get paper and yer enemies won't get nada. Win-win! </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_22"> 
+ <text> No. Now, exercise yer brain: Duty's to the left, Freedom's to the right, stalkers sit on our asses... and you tell me I should watch the sky?! </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_23"> 
+ <text> Boys said that one got caught in Iron Forest's wiring, strong steel ones like in chain fences... There's no reason to go scav there, unless you're feeling like dying. If the electricity doesn't fry you, then the poltergeist will have fun chucking yer about. </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_24"> 
+ <text> Boys saw one, it was flying, but as if the driver was drunk or something. In short, it was flying properly, then it stopped and crashed on the plateau we have no access to. </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_26"> 
+ <text> Yeah, one spun out of control over the bog, near the village. It's a bad place, since it's caught in the middle of nasty anomalies. I don't think anyone's alive there, the bog water is nastier than usual, with acid spraying from the ground. </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_3"> 
+ <text> Have you seen any soldiers around here lately? </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_30"> 
+ <text> Who might be interested in maps of terrain between the Creek and Jupiter?</text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_301"> 
+ <text> I know a guy, the Pilot'd like to see them... He's a type of guy like Ivan Susanin... Give him a compass and some maps and he'll happily lead yer anywhere. </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_31"> 
+ <text> Guys told me, that a group of grunts went south, towards the mercenary camp. Boys figured out that bullets would start flying at any moment, so they backed away slowly. </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_32"> 
+ <text> I heard the story, this war bird swirled around on his rotors, caused some serious ruckus when it hit the ground. Grunts piled out and then the screaming started. Imagine, half a dozen troops up to their ears in swamp water, or trying to make it over the watery hills... wasn't a nice sight, especially when bucketfuls of acid started falling on them. </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_33"> 
+ <text> I heard a story from one boyo... Try this: there was this stalker, with tons of loot in his pack and - suddenly - he hears shooting. He creeped to where the sound was coming and saw soldiers in a bitter skirmish with mercenaries. I say he was stupid, since he ran away, ignoring more loot... such an occasion! </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_34"> 
+ <text> Bro told me: basically, there's this barge with a windmill on the top, where Noah's been waving his hands, shouting stuff. He got a dozen soldiers hide with him from the dogs, giving them a place to stay for a bit. He's a decent guy, but pretty close to going crazy. </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_35"> 
+ <text> Nope. This place's nasty, guys with big guns all around, all look the same... I don't know, or care, which can be soldiers. They can be just Dutyers on a job. </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_4"> 
+ <text> Do you know how to get to Pripyat? </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_40"> 
+ <text> Do you know where I can find a new crew to protect the scientists? </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_403"> 
+ <text> Oh, yeah, yeah we do! Me and my boys will take you there, organize a trip where no monster will attack and no stalker will go against you! We offer a fair deal - trip's once a week, with special offers for holidays!</text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_41"> 
+ <text> On your legs, foo', your legs. Put your ass in gear and head to the Jupiter, you might find something there. Remember, it's been scienteefeecully proven that there's no way to Pripyat from the Creek. </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_43"> 
+ <text> Sheesh man, am I yer guide or something? Do you want me to draw yer maps? Get out, that's something to take up with the Pilot, he's the guiding gig guy. </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_44"> 
+ <text> That's not yer... what'd yer do there? Nothing for stalkers there! </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_5"> 
+ <text> Do you know who might be interested in breaking through to Pripyat? </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_51"> 
+ <text> Well... nah, a real player's not going to do nuttin'. Like, monsters, anomalies and shit are there, with no stalkers and their loot. Sheesh, foo'... unless stalkers suddenly show up in Pripyat, we ain't gonna go there one step. </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_57"> 
+ <text> Those yer are friends with... not those without a tie to ya. </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_6"> 
+ <text> I found a strange weapon, do you know who could tell me something about it?</text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_62"> 
+ <text> Yer know, with tech like that, no wonder it failed. It looks like a pro-tey-tayp. </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_63"> 
+ <text> Not gonna bet my head, but there's this stalker, Cardan on Skadovsk. If yer want, yer can go see him, if he's sober and consc-iee-ous. </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_7"> 
+ <text> Do you know who would be interested in conducting measurements for the scientists? </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_73"> 
+ <text> Yer, our boys'd be great! Those academic types always want current measurements, so we can be doing them. Take height, shoulders and then the nine inch thing... and we're done, hurr-hurr... </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_8"> 
+ <text> I found a strange artifact, do you know who would be interested in it? </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_81"> 
+ <text> That strange thing? Hey, show it to me... yer, looks kind of weird... ok, relax, not gonna take it from yer. Is glowing the only thing it does? If so, then I'm good, you can give it to me at another time, I'm busy with other, actually useful artifacts. </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_83"> 
+ <text> For yer, it's gonna be a piece o' cake. Your artifact's glowing. Respect man, no one's had a glowey thing around here. So, listen. In these parts, Beard's running the artifact business on the Skadovsk. We're without wings... yet. If you sell this to him, we won't get them for a long time still.</text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_9"> 
+ <text>I discovered a lair of bloodsuckers nearby. What should I do? </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_91"> 
+ <text> Hell! Whatcha doing here? Yer should be a dried out corpse by now...</text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_98"> 
+ <text> Never mind. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_0"> 
+ <text> Tell me...</text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_1"> 
+ <text> Yes. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_10"> 
+ <text> What's your opinion about Nimble? </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_101"> 
+ <text> Nimble? ...hmm, I don't know him. Maybe he's in a different squad? </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_11"> 
+ <text> What do you know about the Oasis? </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_111"> 
+ <text> It's a stalker tale. Started a while back, circulated around and before we knew it, there are whole crowds wandering around the place, looking for it. In short, ignore it: it's all a fairy tale, like the Klondike artifacts or the Wish Granter. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_112"> 
+ <text> Ah, that's like that place, where wounds heal instantly and your strength comes back within minutes, right? ...forget it, this kind of stuff doesn't happen here. Typical stalker folklore, in stark contrast to Zone's everyday life: there are no safe places here. You must focus on surviving - fairy tales like the Oasis don't help. Most who believe in them don't last long. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_113"> 
+ <text> I know where it is, on a plateau, where a blue, stony artifact lies undisturbed... it's all bullshit, kid. Of course, I wouldn't mind a place where you can just go and recover instantly, but it's all just a fairy tale. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_12"> 
+ <text> Have you seen a stalker named Soroka?</text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_121"> 
+ <text> This is a Duty camp, remember. You're not going to learn much by asking us about regular stalkers! Go to their camp on the Skadovsk, maybe you'll find your answer there. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_122"> 
+ <text> No, I have not seen him. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_13"> 
+ <text> Do you know who could have stolen stuff from my personal locker? </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_131"> 
+ <text> What do I hear? Under our reign this would not have happened, but this place is full of Freedom freaks. They'd be the one's I'd go and question, thievery is in their blood. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_14"> 
+ <text> Who knows how to crack encrypted data? </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_141"> 
+ <text> There's this technician at Yanov, called Nitro. He has an innate talent for dealing with electronics. I once forgot my PDA password, so I went to him and he cracked it in five seconds. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_143"> 
+ <text> Go to Yanov, find Nitro. He's a master at electronics. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_15"> 
+ <text> I found a PDA that belonged to your founder, do you know who might be interested in it? </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_151"> 
+ <text> You found our first general's PDA? Listen, you're either lying or... or... Listen. If you really have it, better give it to Colonel Shulga, he'll know what to do. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_16"> 
+ <text> Where can I find tools around here? </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_163"> 
+ <text> Look in the factory. Of course, most of the valuable stuff has been already picked clean, but I think nobody has tried looking around in the factory warehouse yet... </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_165"> 
+ <text> I'd look around the old workshops, maybe something was left behind... </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_166"> 
+ <text> Ha, around here! Around here you'll find anomalies and mutants. Anomalies are unlikely to have tools. Mutants like Burers and Controllers won't help you either - they are lousy conversationists. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_169"> 
+ <text> Have you seen the train cars under the bridge? I saw them earlier, they were used as transports for technical personnel. And I think that where technicians are, tools must be too. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_17"> 
+ <text> Who can unlock an UAV memory module? </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_171"> 
+ <text> Nitro. He's at Yanov station, and pretty much the only expert on these matters. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_172"> 
+ <text> Hm, you need a technician for this job. A decent one is only available at Yanov, his name's Nitro. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_18"> 
+ <text> Who can crack open a steel, securely locked case? </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_181"> 
+ <text> They say loners have a technician... he's a bitter drunk, but when necessary, his hands can do wonders. Go ask him. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_182"> 
+ <text> You stole a safe?! I can tell you already that Nitro's unlikely to tackle this job. Now, if it was an electronic lock...</text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_19"> 
+ <text> I am looking for a stalker named Snag. Know where I could find him?</text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_191"> 
+ <text> Listen, you'd be better off asking stalkers these questions, they know each other better. But to answer your question... no, I heard nothing. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_2"> 
+ <text> Do you know anything about the crashed helicopters? </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_20"> 
+ <text> Who would want some real dirt on Duty's founder? </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_201"> 
+ <text> That's obvious, Shulga, our commander would! Give him all the info you can find. Just, you know, don't share what you found out with everyone...</text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_22"> 
+ <text> Yeah. Our intelligence agents saw the helicopter was descending, heading for the backup landing pad near the Jupiter. They said they were giving them signals to change their course, but it seems the pilots didn't see them. I wonder, how did the soldiers manage to get out of that minefield? </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_23"> 
+ <text> Nearby? No. Our presence here is limited. Try asking the guys near Yanov. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_25"> 
+ <text> One of our patrols reported that a military helicopter attempted an emergency landing near the Jupiter factory. Unfortunately, nothing went right for them: they hit the roof of the factory hall at full speed. It's not likely that there were any survivors - our patrol did not receive an SOS signal. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_3"> 
+ <text> Have you seen any soldiers around here lately? </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_30"> 
+ <text> Who might be interested in maps of terrain between the Creek and Jupiter?</text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_301"> 
+ <text> Those who would profit from them. I'm talking about the Pilot, he's a guide, travelling between Yanov and Skadovsk. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_31"> 
+ <text> Soldiers? No, I haven't seen any. They'd stick out like a sore thumb, though. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_35"> 
+ <text> We found a soldier's body at the minefield recently, he probably came from one of the crashed helicopters. The Hinds have enough space for eight passengers. Obviously, others were able to make it out of that heliport, but where did they go... is unknown. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_36"> 
+ <text> A soldier was seen at the scientists' bunker recently. I don't anything else, though. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_37"> 
+ <text> We saw someone in uniform inside the Volkhov SAM base... then again, that might've been just a zombie in military uniform. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_38"> 
+ <text> Stalkers said that they saw a group of soldiers near Jupiter. Judging by their description, they were special forces and there was an unknown stalker with them. They were heading to Pripyat. Seems probable, but I wouldn't trust this rumour too much. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_4"> 
+ <text> Do you know how to get to Pripyat? </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_40"> 
+ <text> Do you know where I can find a new crew to protect the scientists? </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_401"> 
+ <text> Only Duty can provide them with proper protection. Listen, go to colonel Shulga at the Yanov station. He won't make any problems, you'll reach an agreement fast. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_402"> 
+ <text> As long as they employ even a single Freedom stalker, we won't come near the place. Most of us would sooner shoot themselves, than work alongside them. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_42"> 
+ <text> Duty has no need for finding a way to Pripyat, but we still collect information. According to unconfirmed reports, tunnels under the Jupiter plant go as far as the city itself. To confirm this, you'll have to scour the entire factory for clues. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_43"> 
+ <text> No. If you need this kind of information, go ask civilian guides. Our intelligence only deals with serious problems, not stalker dreams. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_44"> 
+ <text> Our guys scour the area regularly, looking for a safe way to reach Pripyat, but so far, we have nothing.</text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_5"> 
+ <text> Do you know who might be interested in breaking through to Pripyat? </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_51"> 
+ <text> Duty presence is limited in this area. Go ask people at Yanov. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_52"> 
+ <text> There are reports that a soldier is staying with the scientists at the bunker. He has nowhere to go, the scientists' research program will last for a year and a half and he'll be dead before he gets out of the Zone. I think he's an excellent candidate for such an operation. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_53"> 
+ <text> In your place, I'd go and look among those with similar interests... Look for a stalker named Vano at Yanov station. As usual, he got caught up in some trouble, but he'll be useful - he has an innate talent to traverse the worst anomalies without a scratch. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_54"> 
+ <text> Well, you can always announce that you're looking for nuthouse candidates... Wait, I know who would make fine candidates! Monolithans! A squad was spotted not far from the SAM missile base... OK, that was a bad joke. Seriously, do not even think of doing that, OK? </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_56"> 
+ <text> Look for volunteers among Dutyers. I think that Rogue is available, since he has no assignment. The Colonel should allow him to go. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_57"> 
+ <text> Listen, every dog knows that Duty has the best fighters! Except, well, we have other problems now. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_6"> 
+ <text> I found a strange weapon, do you know who could tell me something about it? </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_62"> 
+ <text> Wow, now that's something! Now, sincerely, where did you find it? I've never seen anything like this gun... You should take it to a technician. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_7"> 
+ <text> Do you know who would be interested in conducting measurements for the scientists? </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_71"> 
+ <text> I can answer you right here, right now: our guys, of course, Dutyers. We have a lot of experienced people here, some have worked for scientists before. Go to Colonel Shulga, he's in charge of these thins.</text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_72"> 
+ <text> I don't think anyone would like to work for them, not with the Freedom stalkers guarding the place. These pacifists don't have a clue and worse, they screw each other over at each step. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_8"> 
+ <text> I found a strange artifact, do you know who would be interested in it? </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_81"> 
+ <text> Everyone'd be interested in artifacts... just don't carry them openly. Anyway, let specialists deal with this thing. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_83"> 
+ <text> Go share this garbage with stalkers, they are experts at wasting time on these stupid things. The one to whom the sell those is even better. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_9"> 
+ <text> I discovered a lair of bloodsuckers nearby. What should I do? </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_91"> 
+ <text> Duty does not conduct eradication operations in that area. This lair will have to wait for its turn.</text>
+ </string> 
+ <string id="about_quests_dialog_dolg_98"> 
+ <text> Never mind. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_0"> 
+ <text> Tell me...</text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_1"> 
+ <text> Go ahead. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_10"> 
+ <text> What's your opinion about Nimble? </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_101"> 
+ <text> Yeah, I did hear about him... But you're better off asking stalkers about him - it's the same Nimble I heard of, right? </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_11"> 
+ <text> What do you know about the Oasis? </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_111"> 
+ <text> I've heard a lot. It's a really, really beautiful legend, like the palace among endless sands, an island in an ocean of mist, a castle with towers reaching the sky... Shambala... Eden... Oasis. Hey, what is a free man without dreams?</text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_112"> 
+ <text> Not much. I did hear the story of a stalker, who, if I recall correctly, was the first to speak of the Oasis. He said that his wounds closed in an instant, and his soul became calm and tranquil, as if he wasn't in the middle of the Zone with all its charm... Hmmm, I haven't seen him since, but I recall something I didn't really understand. He was limping, but when he told about the Oasis, he wasn't and it seems as if he was fifteen years younger. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_113"> 
+ <text> I heard stories about it from ten different stalkers, and none of them even remotely similar. In short, it seems as if the Oasis was smeared on the Zone from the Brain Scorcher to the Chernobyl. Heh, if you connected the dots, the intersection would lie smack right in the middle of Yanov's bar. We're with you man, a few more cups and you'll be at the Oasis. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_12"> 
+ <text> Have you seen a stalker named Soroka?</text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_121"> 
+ <text> Nope. I don't know many loners in these parts. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_122"> 
+ <text> Soroka? Hmmm... Nope, I don't remember him. Though it's possible he's already dead. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_13"> 
+ <text> Do you know who could have stolen stuff from my personal locker? </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_131"> 
+ <text> I have no idea, dude. We have ours here that has never happened before! Alright, so maybe we do grab someone else's loaf to grab a bite or have a drink from each others' bottles - yes, it happens. But outright stealing...?</text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_14"> 
+ <text> Who knows how to crack encrypted data? </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_141"> 
+ <text> Nitro's a fan of this stuff, he's at Yanov. I'll tell you this, though - don't hang around him too much, he's on Duty's side of the station, so it's a safe bet he's not a fan of Freedom. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_143"> 
+ <text> I have no idea who the local specialists are. Dude, just head to Yanov, ask our guys, they'll show you the right person. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_15"> 
+ <text> I found a PDA, which belonged to Duty's founder. Who might be interested in it? </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_151"> 
+ <text> Damn, you've got a nice thing there! Listen man, I'd give it to Loki, he's a kind of a senior of ours at Midsummer. Oh, he'd surely love it! Duty's founder! The Loners will know who was behind Duty's ideology, who trained them all! </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_16"> 
+ <text> Where can I find tools around here? </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_163"> 
+ <text> At the factory, dude, at the factory... But listen, it's a scary place. You feel as if someone's constantly watching you... There's is a nice place there, however - the warehouses. They're not nearly as scary, plus, it's far more likely for you to come across tools there. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_165"> 
+ <text> A tricky question man! Let's think logically?, shall we? Where do you get tools outside of the Zone? You're going to buy them from the store, if you can't find them in your garage. Even if you can find them in a garage, but you have two left hands for mechanical work, you go and look for someone with a knack for this stuff. To a workshop, basically. So? It's the same story here! Elementary, my dear stalker. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_166"> 
+ <text> Tools? Listen man, don't use a code, just be straightforward. There's no Echelon here, so no codes are needed... Wait, you're serious about those tools? Well then, I do not know, sorry...</text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_169"> 
+ <text> I've heard where you can get them, yeah. I heard that one guy got into that train car under the bridge. There was a Tesla flying inside! In his own words, he ran as fast as the wind, that anomaly sure does get your blood pumping. Why do I tell you this? He mentioned he saw a tool kit there. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_17"> 
+ <text> Who can unlock an UAV memory module? </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_171"> 
+ <text> OK, dude. First, there's Novikov, a technician in the employ of the scientists. He's fast, his upgrades are efficient - in general, his upgrades are top notch. On the other hand, you have Nitro, at Yanov, a guy five minutes away from being a Dutyer. You know, he's cheap, but quite angry. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_172"> 
+ <text> A clever technician, I guess. The local is more of a locksmith, mechanic. So, if you don't want to open the module like a tin can, go ask around Jupiter, there must be technicians around there who are good with electronics. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_18"> 
+ <text> Who can crack open a steel, securely locked case? </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_181"> 
+ <text> Dude, there's this rumour: there's some Cardan on the Skadovsk, a real master at this. His hands are not gold, but platinum, even if they smell with kerosene. You bring that container to him and he'll open it for you, I bet. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_182"> 
+ <text> I think anyone who had a stuck metal case to deal with can do it. Just remember - Nitro, our local technician won't go for this kind of deal, he's an expert at hacking electronics, not menial stuff. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_19"> 
+ <text> I am looking for a stalker named Snag. Know where I could find him?</text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_191"> 
+ <text> Nope, don't know him. You're better off asking the loners around. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_2"> 
+ <text> Do you know anything about the crashed helicopters? </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_20"> 
+ <text> Who would want some real dirt on Duty's founder? </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_201"> 
+ <text> Man, you need Loki. He's our local boss, stationed at Yanov. Go to him and let's get this show on the road! Let's just hope that Duty doesn't catch wind of this, just imagine the kind of hell they'd raise... Just imagine the kind of crap they can cause, if they get this info. Hell, even think about it sickens me. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_22"> 
+ <text> Yeah. Heard of the helo in the minefield? It was once a backup landing site, so the soldiers plopped down on it. There were troops there once for five years... or six? Anyway, when they left, they mined the place. It seems to me that they haven't done it for nothing, since it's mined so tightly that nobody can get in. However, the helicopter actually managed to land there without hitting a mine... The way I see it, the soldiers landed there, went off to do their stuff. Afterwards, they'll come back, pack in, launch the rotors - and bye! Hmmm, I wonder - can we capture it before they get back? </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_23"> 
+ <text> We haven't seen anything happen here, nothing. We're not up to date with the latest news either, you're better off asking our guys at Yanov, they hear everything there and can tell you anything, both what you want and don't want to hear. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_25"> 
+ <text> Yeah, our guys saw one recently. It looked like a panicked crow, screaming as it slammed full force straight into that horrible place: Jupiter. Every thing's rusted in there, so it went right through the roof and ended up inside. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_3"> 
+ <text> Have you seen any soldiers around here lately? </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_30"> 
+ <text> Who might be interested in maps of terrain between the Creek and Jupiter?</text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_301"> 
+ <text> Oh man, this is a no-brainer: the Pilot of course! He's the best guide among the stalkers here, maps are his forte. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_31"> 
+ <text> Hey man, relax! Chill out, no soldiers nearby, no cops, no voluntary people's mobs... We are all peaceful guys, we won't shoot you for no reason. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_35"> 
+ <text> No, I did not. I did hear a lot about that group of soldiers who crawled through a minefield near the old heliport. Well, we first thought - should we help then? And then we thought about it again, and decided that it'd be pointless. The soldiers are funky people, god only knows what can come into their heads. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_36"> 
+ <text> Haven't seen it, but people say that one of the eggheads took in a soldier. Ozersky - the biologist - mentioned that one helicopter pilot moved into their bunker. Heh, we had a field day over that: Well done, lads, you've got yourself a new pet, a military grunt! </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_37"> 
+ <text> No, but I heard the loners mention that they saw a kind of a lone warrior near the Volkhov SAM. What do you think - was that a ghost or just an annoyed zombie?</text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_38"> 
+ <text> Nope. But one of our guys mentioned that he saw seven military types near the plant, going single file, following some stalker in the direction of Pripyat. I think that Gasha hasn't created a good story for quite some time, so he just invented a shameless imaginary story, but... errr... nah, it's a crazy idea. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_4"> 
+ <text> Do you know how to get to Pripyat? </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_40"> 
+ <text> Do you know where I can find a new crew to protect the scientists? </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_401"> 
+ <text> You don't have to look far: we're your new crew. Freedom, that is. We've been already working for the scientists, protecting their bunker, so it'd be easy to expand our services to them. Go talk to Loki at Yanov, he'll surely agree. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_402"> 
+ <text> Hell if I know. Scientists, if I heard correctly, hired a field squad of Duty. We'd happily work for the eggheads, but to see those uptight Dutyer asses everyday... No, not likely. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_42"> 
+ <text> They say, there's a way an Jupiter. I mean, from the factory, not the asteroids, no.. Ff--- that's not what I meant, stop laughing! </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_43"> 
+ <text> You know, I can't tell you, since I don't know... You better ask the Pilot, back in the base, yeah? He is the most knowledgeable of all loners about this stuff. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_44"> 
+ <text> Dude, if I knew that, I'd be long gone from here. Away from Duty, military, all the stupid, fucked up fighting...</text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_5"> 
+ <text> Do you know who might be interested in breaking through to Pripyat? </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_51"> 
+ <text> Sorry buddy, I have no idea who might be interested in doing so, at least not at the Creek. All I can say: look around Yanov, ask our boys. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_52"> 
+ <text> Did you ask the bunker scientists? They have a bit of an unhealthy set up there. Initially, Garik, a Gdansk stalker, obsessed about going to Pripyat. Now, the soldier who joined them has the same obsession. Garik's a rational guy, a loner... but the soldier, I think he might be up for some team action. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_53"> 
+ <text> I'm thinking about Vano, at Yanov. He's a decent guy, we asked him to join us for a long time, with open arms... he doesn't want to. He's not a Duty lover, thankfully - he hates to be forced to do anything. Well, that's just how he is.</text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_54"> 
+ <text> Easy. One of our squads saw some fighters at the dry lake bed, they looked capable. Should know Pripyat in and out too! Plus, they looked fairly desperate - you won't find better candidates anywhere. Still, remember, this is Monolith we're talking about! </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_55"> 
+ <text> Hmmm, I can't go, but let's think... Rogue, the head of our new guys... there's something unsettling about him. His fighters, like, joined normally, but he... Generally, I think he's tormented by something. Maybe a trip with you can ease his suffering? I hate to see a good man in pain... </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_57"> 
+ <text> Uh-uh... a general without a crew. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_6"> 
+ <text> I found a strange weapon, do you know who could tell me something about it?</text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_62"> 
+ <text> It didn't come with a manual? No idea then. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_7"> 
+ <text> Do you know who would be interested in conducting measurements for the scientists? </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_71"> 
+ <text> I think so, our guys would like to do it. Freedom's not stupid, and if we have any questions, we'll simply ask the scientists! We are ready to aid the progress of science! Go talk to Loki, at Yanov, he'll arrange everything. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_72"> 
+ <text> We'd be happy to work with the smart dudes, but they have a Duty outfit protecting them. Now, they might be scientists, but their choice of security is horrible. We would be frisked by Duty everyday and... no, it's pointless. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_8"> 
+ <text> I found a strange artifact, do you know who would be interested in it? </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_81"> 
+ <text> Strange, you say? Then look for a collector of everything, dude. There's no one in Yanov interested in that, I'm afraid, too much serious business around here. Better go ask in the Creek,  they're more laid back there. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_83"> 
+ <text> Know Beard? He's the bartender at the loner camp. He's always willing to buy artifacts, for a fair price too! Whatever you might think, even though he's not Freedom, he's still a cool buddy. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_9"> 
+ <text> I discovered a bloodsucker nest nearby. What should I do? </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_91"> 
+ <text> Dude, it's urgent, get this info to the loners ASAP. Their main camp is here. The bloodsuckers might be important to the Zone ecosystem - you know, valuable, unique biocenosis and all, but I still find human muzzles more pleasant, even if covered with respirators. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_98"> 
+ <text> Never mind. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_0"> 
+ <text> Tell me...</text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_1"> 
+ <text> Ask. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_10"> 
+ <text> What's your opinion about Nimble? </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_101"> 
+ <text> I had a few orders brought in by him with no problems... Brother, go ask Skadovsk regulars about him. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_11"> 
+ <text> What do you know about the Oasis? </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_111"> 
+ <text> Oh, I heard a lot. This legend is treasured by every stalker. Well, everyone has their own ideas on how to get to the Oasis. All sound good, but the places they point to are all different, and to get to even a single one, you have to go through a lot of hoops.</text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_112"> 
+ <text> They say that any injury you might have - poof! - goes away, just like that. Your strength comes back, diseases go away... Imagine, even radiation dissipates. So, remember, if you ever come to the centre of the Zone... You figured it out, right? Shhh- don't tell anyone. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_113"> 
+ <text> I heard that if you meet any Zone creature there - they will not attack you, can you imagine? They also say that there is this artifact - the Heart of the Oasis. It's it, that gives the place all those magic properties and that no one can take it - those who do no longer live, either in the Zone or outside of it... Where is it, you ask? Oh, man, everyone knows! There's a Ferris Wheel in Pripyat, where else can the Oasis be? </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_12"> 
+ <text> Have you seen a stalker named Soroka?</text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_121"> 
+ <text> Yes, I've seen him... But where is he now - no clue. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_122"> 
+ <text> Hmmmmm... nope, I do not know anything about him. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_13"> 
+ <text> Do you know who could have stolen stuff from my personal locker? </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_131"> 
+ <text> Wow, you got screwed! No, we haven't had such a situation lately. Perhaps you should talk to some of Yanov's old timers, maybe they can help. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_14"> 
+ <text> Who knows how to crack encrypted data? </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_141"> 
+ <text> Nitro at Yanov. If anyone, he's the person to see when it comes to e-tripe! He sometimes forgets about serious stuff, it's that absorbing for him. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_143"> 
+ <text> Listen, I have no idea. Try to ask at Yanov, I think they had a specialist...</text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_15"> 
+ <text> I have a PDA, which belonged to Duty's founder. Who might be interested? </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_151"> 
+ <text> Recall Owl, on the Skadovsk? I think he'd gladly buy this PDA. He's such a... selfless man, yeah. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_152"> 
+ <text> At the Creek, there's this resourceful man, called Owl. He sells and buys information, and he'll love your find. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_16"> 
+ <text> Where can I find tools around here? </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_161"> 
+ <text> A stalker told me that his father worked at the workshops substation, before '86. They had some delicate equipment there, and all equipment needs tools, right? Of course, it might all be rusty, but you never know...</text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_162"> 
+ <text> Know the sawmill, on the grove up that hill to the north-west? Logically, you could find tools there... but getting inside might be hard, not because of the approach, but... well, I don't want to get into details, but there were problems there... and it wasn't radiation. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_163"> 
+ <text> Well, I'd look around the Jupiter factory. There might be tools left inside still, but personally, I wouldn't go there, it's a horrible place. I'd try looking around in the warehouses on the edge, though. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_164"> 
+ <text> I heard that Pripyat has a couple of spots where you can find various technical stuff. One of them is the old department store. Want something more specific about the place? I bet you won't find anything there, since the place's been picked clean. If they did sell precise tools, I'd look in the back, and even then, I wouldn't count on finding anything. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_165"> 
+ <text> I know? Heh, you sure know who to ask... look around old workshops or magazines, maybe you'll find some useful stuff here or there... </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_166"> 
+ <text> Frankly, the last place I saw any normal tools was in Sidorovich's cellar, in the Cordon. Those were quality tools, new and damn expensive. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_167"> 
+ <text> You know, brother, I'd never think of looking around for tools. Once you're in the Zone, that's it. Why would you need a radioactive wrench and pliers for, anyway? </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_168"> 
+ <text> Someone once said that there might be profitable odds and ends in the old Palace of Arts, if they have nowhere else to look. Well, if tools might be found there, why not? The first guy to break through to that place and makes it out alive will be on everyone's mouths. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_169"> 
+ <text> Tough question! You know, I'd look around in the old wagons, under the bridge... How do I know that? Consider it intuition. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_17"> 
+ <text> Who can unlock an UAV memory module? </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_171"> 
+ <text> Let me think... Well, you should head to Yanov, to Nitro. Another choice, I think, is Novikov, who's working as a technician for the scientists. He offers quality, expensive, but well worth it. In general, I think that if you don't care about quality all that much, Nitro's the cheaper choice. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_172"> 
+ <text> This is a more technical job, and the only one here is Cardan. Understand, after years of binge drinking, even a little high technology is too much for him. You're better off asking around Jupiter, a more experienced technician can be found there, surely.</text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_18"> 
+ <text> Who can crack open a steel, securely locked case? </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_181"> 
+ <text> Cardan from Skadovsk, who else? No matter the lock, he can open it by just cutting through it! </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_182"> 
+ <text> Well, you should go to a technician. Nitro's not too likely to take the job - he doesn't like menial jobs. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_183"> 
+ <text> Heh, you'll surely find this service in Pripyat! My advice: if you're looking for a burglar, you should go farther away from the centre of the Zone. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_19"> 
+ <text> I am looking for a stalker named Snag. Know where I could find him?</text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_191"> 
+ <text> You want Beard, the Skadovsk bartender. He usually knows where all the odd guys are. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_193"> 
+ <text> Snag? No, I do not know. Maybe someone at the Creek knows? Usually he's working around those parts. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_2"> 
+ <text> Do you know anything about the crashed helicopters? </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_20"> 
+ <text> Who would want some real dirt on Duty's founder? </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_201"> 
+ <text> If I was you, I'd go to the Skadovsk and have a talk with Owl, he's an information broker. If you're lucky, he knows facts of interest to you.</text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_21"> 
+ <text> I saw one. Didn't like the way it crashed, it obviously had problems. You know, everything was fine until it ended up there... up on the plateau, in the south of the Creek. It'd be good to get up there and look around if anyone survived, but getting there is absolutely impossible! On the other hand, Noah, the barge psycho, might know the way... </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_22"> 
+ <text> I've heard that several military helicopters crashed here lately. Where did they land - everyone has a different theory, and I remember only one. I heard that they landed on some strip, which was mined earlier by the army. Seriously, can you feel the irony? </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_23"> 
+ <text> I heard about them from a friend, who went to the Iron Forest looking for artifacts. As he was roaming there, the chopper came in roaring and - bam - it crashed! He was deafened by the noise, almost didn't make it out in time, as the helicopter came crashing straight at him, knocking over pillars... well, he managed to get out somehow and he ran like the wind, even managed not to fall into the anomaly! Well, if you want to find the Iron Forest, it's easy to locate, you can see it from afar. But still, consider if going against a poltergeist is what you want. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_24"> 
+ <text> I heard that one crashed on the southern plateau, but to get there is impossible, no one knows how to get there. On the other hand, someone saw Noah up there, having a walk... maybe this crazy really knows how to get there? </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_25"> 
+ <text> Nope. I only heard that a helicopter hit the factory head-on. Nobody wants to go there to confirm that it did, it's considered too dangerous. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_26"> 
+ <text> One stalker told me that he saw several military helicopters in formation. Well, shortly after he saw them, something happened to one of them: the engine puffed, then it all lit up and  started plummeting like a stone, smack right into a swamp rife with anomalies. No, the problem is not getting there, the anomalies are, since they're all over the swamps. There's nothing to do there either, not for any sane stalker, at least. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_3"> 
+ <text> Have you seen any soldiers around here lately? </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_30"> 
+ <text> Who might be interested in maps of terrain between the Creek and Jupiter?</text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_301"> 
+ <text> The Pilot, obviously! He's constantly travelling between Skadovsk and Yanov, so they're going to be really valuable to him! </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_302"> 
+ <text> Here, no maps of Creek or Jupiter will be of use, go ask in those areas. These cards are really slices... heh... a midsummer's night dream. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_31"> 
+ <text> Haven't seen them, but heard a story. They say that soldiers came down from the southern plateau, from the crash site. Where they went afterwards, nobody knows. Apparently, they first tried going all scientific with ropes down, but one slid and went down on his ass all the way down. Like a bob-sleigh! </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_32"> 
+ <text> People were talking about the Skadovsk about soldiers they saw. Apparently, they came from a sewage tunnel near the swamp, covered in marsh goo from head to toe, looking like devils, marsh bloodsuckers even! </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_33"> 
+ <text> I didn't see it myself, but one of the brothers saw the military exchange fire with the mercs near the waste processing station. My bro said that he just laid down and watched for fun, but that was some serious fighting! And it ended as abruptly as it started. He said that there was something strange - the skirmish was hectic, but there wasn't a single corpse on either side... </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_34"> 
+ <text> Seems a dozen soldiers came near Noah's barge. Apparently, he made some kind of a deal with them, giving them shelter or something. I did decide against going to Noah to talk about this - who knows what might jump into that nutter's head? </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_35"> 
+ <text> Well, I heard of some kind of stir in the night. As it turned out, when news reached Yanov, a dead soldier and an abandoned army helicopter appeared at the old heliport overnight. Looks like the pilots couldn't land properly at night and had to leave it. Now, the real question is, how many did survive the minefield? That is, brother, the most important problem. It's obviously impossible that just a single trooper would arrive in a gunship... </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_36"> 
+ <text> Haven't seen nor heard... but I did pick up that scientists took in a real soldier. Seems like stalker Garik found him near the entrance to the missile system, saved him from zombies... generally, the soldier owes Garik his life now... </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_37"> 
+ <text> No, but they say there was one staying around Volkhov. Who else could it have been? I think they were right, but if not, well, it's hard to tell a soldier apart from a zombie in a military uniform, right? </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_38"> 
+ <text> Soldiers? Yes, I did hear some rumours about a military squad, which kind of followed a stalker past the Jupiter... it's all gossip and rumours, I don't listen to them much. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_4"> 
+ <text> Do you know how to get to Pripyat? </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_40"> 
+ <text> Do you know where I can find a new crew to protect the scientists? </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_401"> 
+ <text> Do you know Spartacus' squad? They're the guys roaming around the Creek. They are good guys, professional too. A lot of bang for your buck, and I think a scientist security gig would sound nice to them. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_402"> 
+ <text> Heard of Slasher's squad? They're near the workshops substation, at the Creek. They might be mercenaries, but they actually ask questions first and then shift. If you come to terms with them, the scientists will be pleased and stalkers will be able to relax finally. It's a win-win situation! </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_403"> 
+ <text> Uhhh... sorry, I don't remember anyone. Can't help you. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_41"> 
+ <text> What I do know is that there is no way there from the Creek. Anyone anxious to see Pripyat went towards Jupiter. You should go ask around there. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_42"> 
+ <text> Just rumours... they say that there are a lot of tunnels under Jupiter, which go as far as the city. But, first, they only say that after downing two glasses, and, second, the Jupiter is... unpopular. In general, no one is particularly eager to go explore that place. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_43"> 
+ <text> Listen, how would I know? You might as well could've asked me about Klondike artifacts. I'll tell you this: find a guide and talk to him. His name's Pilot, if such a way exists, he'll know about it. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_44"> 
+ <text> Hehe, if I knew how to get to Pripyat, I wouldn't be here. Why do you think I'm stuck near the centre of the Zone? See, there are tons of artifacts in Pripyat! The one who gets there first will be the lord and master! </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_5"> 
+ <text> Do you know who might be interested in breaking through to Pripyat? </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_51"> 
+ <text> You won't find anyone around here, that's for sure. Everyone who wanted to be closer to the centre of the Zone went to the Jupiter, so go ask around there. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_52"> 
+ <text> Heard about the soldier who got stuck with the scientists? He had a lot of luck... but I think he's getting restless. He doesn't like being separated from his combat buddies, nor does going AWOL sound nice to him. Plus, he can't just walk back to the Cordon like that. So, if he's still restless and anxious to move, maybe he'll agree to go to Pripyat with you? </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_53"> 
+ <text> Are you familiar with Vano, from Yanov? He's an honest guy and a great stalker... except he has trust issues. Too trusting, you see. Here's someone, who the Zone knows and loves, protects, but humans... heh, there's always a bastard ready to screw him over. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_54"> 
+ <text> Okay, listen, man. They say that south of the SAM base, near the dried up lake, a group of fighters was spotted. They also said that the stalkers there weren't with Duty or Freedom, no, they were from the Monolith! So, think about it - if you need people to help you get to Pripyat, you won't find better guys anywhere.... Hahaha, what, are you serous about it? I was joking! Recruiting Monolith guys, heh, now that's a crazy idea. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_55"> 
+ <text> Maybe you've heard about Rogue? He's the commander of a new unit of Freedom fighters. Even a blind stalker would see that he's itching to move away from Yanov, oh, really itching to do it. Try talking to him, he'll surely agree, you'll see.</text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_56"> 
+ <text> Maybe you've heard about Rogue? He's the commander of a new unit of Dutyers. Even a blind stalker would see that he's itching to move away from Yanov, oh, really itching to do it. Try talking to him, he'll surely agree, you'll see. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_57"> 
+ <text> Hmm ... No, no idea. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_6"> 
+ <text> I found a strange weapon, do you know who could tell me something about it?</text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_62"> 
+ <text> Hell if I know. I'd ask around for specialists... maybe they'll be familiar with that technology.</text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_63"> 
+ <text> Ask for Cardan on Skadovsk - he won't be a bad choice. He's a skilled gunsmith, with golden hands... he just does not utilize his talent in full. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_7"> 
+ <text> Do you know who would be interested in conducting measurements for the scientists? </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_71"> 
+ <text> Gaunt the hunter. I think that he and his boys won't mind working for the scientists. Plus, if they run into any monsters, they'll easily know what to do!</text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_72"> 
+ <text> Heard about Bear, Bags and Mityai, Yanov stalkers? How did they work their way to the top three - no idea. I think they'd be suitable for this line of work, unless Mityai got himself into trouble again. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_73"> 
+ <text> No idea.  </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_8"> 
+ <text> I found a strange artifact, do you know who would be interested in it? </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_81"> 
+ <text> I don't know... not around here, at least, people prefer to trade regular stuff. Try and look around at the Creek - they are at least closer to the borders of the Zone. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_83"> 
+ <text> What I would do... is show it to the Beard, he's a bartender at the Skadovsk. They say that all sorts of collectors are Beard's clients, so he might find a foreign buyer interested in this item. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_9"> 
+ <text> I discovered a whole nest of bloodsuckers nearby. What should I do? </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_91"> 
+ <text> Wow! You should immediately inform Beard about it, he's on Skadovsk. Then, we can do two things: either understand them finally, or exterminate them all. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_98"> 
+ <text> Never mind. </text> 
+ </string> 
+ <string id="about_skadovsk_dialog_bandit_0"> 
+ <text> Where is the nearest stalker camp? </text> 
+ </string> 
+ <string id="about_skadovsk_dialog_bandit_1"> 
+ <text> It's a piece of cake, boyo! Well, okay, I might not have an Atlas to show you, but I can send you the coords to your PDA. Remember, stalkers aren't stalkers until they've visited the Skadovsk. Go check it out... this tip is free. </text> 
+ </string> 
+ <string id="about_skadovsk_dialog_stalkers_0"> 
+ <text> Where is the nearest stalker camp? </text> 
+ </string> 
+ <string id="about_skadovsk_dialog_stalkers_1"> 
+ <text> Now, let me show you... OK, it's on your PDA. There's this old tub, called Skadovsk. It's the only large camp in the area. </text> 
+ </string> 
+ <string id="actor_break_dialog_2"> 
+ <text> Goodbye. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_27"> 
+ <text> Yeah, I heard that a few crashed... I don't know where, though, I was too busy to listen to rumours. Now, sorry, I'm not your tech support. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_28"> 
+ <text> Oh man, now it's raining helicopters, as if the Zone wasn't bad enough... all this crap about crashing helicopters is giving me a headache, I don't give a fuck about their problems. </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_27"> 
+ <text> Hear that, about the helicopters? Well, those with two bubbles are - yes, the harsh truth of life. And those who fly through the sky, it is for us as it is for them... oh, Goethe! High poetry, y'hear? </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_27"> 
+ <text> Huh? No-o, man, I knew those tricks won't do us any good! Education and progress and technology are a road to failure!</text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_27"> 
+ <text> Well, our patrols did notice a reduction in the number of helicopters, but details were forwarded to the Colonel personally. Therefore, it's not my business, the commander is great, he's the brains of this outfit. </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_50"> 
+ <text> Where can I find a suit with a closed circuit breathing system? </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_501"> 
+ <text> Well, grab it, or, if you have the dough, you can buy it if you know where to go. Go to Nimble, if he agrees, you'll get your suit. At the same time, when we get the bitch in our hands when he comes back to the Skadovsk...</text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_502"> 
+ <text> I'm without a clue. We're not locals, go ask around the Creek, they might be more (hurr, hurr) helpful. </text> 
+ </string> 
+ <string id="about_quests_dialog_bandit_503"> 
+ <text> No idea. Hey, yer, going to dive in the anomalies? If yer have trouble with artifacts, we'll help you. We'll make you a cake, with flowers, gifts, music... harrr, harr, harr! </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_50"> 
+ <text> Where can I find a suit with a closed circuit breathing system? </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_501"> 
+ <text> How should I know? ...OK, there's this one guy on the Skadovsk, who said he can arrange such stuff... His name's Nimble, he's usually on the upper deck. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_502"> 
+ <text> You won't get it here, rarely does anyone haul in an extra costume... better go ask around the Creek, they're closer to the outside and the suppliers. </text> 
+ </string> 
+ <string id="about_quests_dialog_dolg_503"> 
+ <text> Where to look for it - no idea... such suits are a rarity, even in Duty's ranks. They are only given to those, who have truly distinguished themselves or have to conduct special operations in areas rife with anomalies. </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_50"> 
+ <text> Where can I find a suit with a closed circuit breathing system? </text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_501"> 
+ <text> One man immediately comes to mind - Nimble, who can get you almost everything. Well, within reason, you see - guns, armour... He can be usually found at Skadovsk, and no matter is too hard for him.</text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_502"> 
+ <text> Tough question, man... well, we aren't exactly rich in supplies in Freedom - I'd ask around stalkers at the Creek. I heard that there's this guy, who can get you all sorts of useful things...</text> 
+ </string> 
+ <string id="about_quests_dialog_freedom_503"> 
+ <text> Heh, why do you want one? It's not better in battle no... although... if you really like the benefits it offers, then of course, it's your choice. I guess it will filter out the smoke and the smell, and dim the sun like sunglasses... I guess I could get one for myself. Only question is where...</text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_50"> 
+ <text> Where can I find a suit with a closed circuit breathing system? </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_501"> 
+ <text> Well, I think Nimble's your man, he's on the third deck of the Skadovsk. He could get you the devil's own horns... just remember, his services aren't cheap. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_502"> 
+ <text> Let me think... I recall a man at the Creek, Nimble was his nickname... Try to find him. According to rumours, he's an expert in exclusive products. </text> 
+ </string> 
+ <string id="about_quests_dialog_stalkers_503"> 
+ <text> Dude, to answer your questions, we have ration cards around here... Fuck if I know, to tell the truth. Such goods surface very rarely... I was lucky to get something of this class.</text> 
+ </string> 
+ <string id="actor_break_dialog_3"> 
+ <text> Bye. </text> 
+ </string> 
+ <string id="actor_break_dialog_1"> 
+ <text> Goodbye. </text> 
+ </string> 
+ <string id="actor_break_dialog_0"> 
+ <text> See you. </text> 
+ </string> 
+ </string_table> 
+
+
+

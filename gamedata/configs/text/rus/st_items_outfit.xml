@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<string id="csky_heavy_outfit_description">
+<text> Once the standard suit of Clear Sky storm troopers, this great outfit is the only legacy of the faction, whose destruction became a reminder to stalkers that even the greatest armor cannot protect you from the wrath of the Zone. The suit can stop not only pistol rounds, but also anomalies. Includes an integrated artifact container. </text>
+</string>
+<string id="csky_heavy_outfit_name">
+<text>CHN-3a Battle Armor</text>
+</string>
+<string id="dolg_heavy_outfit_description">
+<text> An early Duty suit, made from Spetsnatz PS3-9s adapted for use in the Zone. Protects from most assault rifle rounds, but is very cumbersome and lacks anomaly protection. No artifact containers are provided in the default configuration, but it can be upgraded with some. </text>
+</string>
+<string id="dolg_heavy_outfit_name">
+<text>PSZ-9d Duty Armor</text>
+</string>
+<string id="dolg_outfit_description">
+<text> An updated model of the basic Duty suit, issued to capable stalkers recruited into the organization. Unlike regular PS3 series armor, it provides good protection from anomalies in addition to decent gunfire protection. Artifact containers are not included in the basic model, but it can be upgraded with some. </text>
+</string>
+<string id="dolg_outfit_name">
+<text>PS5-M Universal Protection</text>
+</string>
+<string id="exo_outfit_description">
+<text> A third generation military exoskeleton. It never went into serial production due to extreme cost and several design flaws. It is, however, illegaly produced in small batches outside of Ukraine. The design defects which used to decrease its mobility were eliminated and the armor was reinforced. It provides excellent bullet and splinter protection at the cost of anomaly resistance. </text>
+</string>
+<string id="exo_outfit_name">
+<text>Exoskeleton</text>
+</string>
+<string id="military_outfit_description">
+<text> This modern armored military outfit is designed for assault operations in areas of anomalous activity. It consists of a PSZ-12p heavy military bulletproof vest and an integrated anomaly compensation suit. Provides perfect protection from bullets and shrapnel, whilst maintaing the soldier's mobility. It comes with no artifact containers, although it can be upgraded with some. </text>
+</string>
+<string id="military_outfit_name">
+<text>Bulat Military Armored Suit</text>
+</string>
+<string id="mp_exo_outfit_description">
+<text> This Exoskeleton provides perfect protection from bullets and shrapnel, but reduces mobility. Increased vulnerability to AP rounds. </text>
+</string>
+<string id="mp_exo_outfit_name">
+<text>Exoskeleton</text>
+</string>
+<string id="mp_military_outfit_description">
+<text> Military armored suit designed for ground attack operations. Provides excellent protection from bullets and shell fragments and does not reduce the mobility of the owner. Vulnerable to AP rounds. </text>
+</string>
+<string id="mp_military_outfit_name">
+<text>Military Armored Suit</text>
+</string>
+<string id="mp_scientific_outfit_description">
+<text> Intended for research activities in the Zone, this outfit is equipped with an external insulating coating and a rebreather, providing perfect protection from anomalies. Its resistance to bullets is low, making the user extremely vulnerable to enemy fire. Equipped with a built-in container for artifact transport. </text>
+</string>
+<string id="mp_scientific_outfit_name">
+<text>SEVA Suit</text>
+</string>
+<string id="novice_outfit_description">
+<text> A simple black leather jacket. Provides little in way of protection, but at least the wearer won't freeze to death at night. Blind dogs won't carve into soft tissue immediately either. Often used by bandits, probably because of its menacing appearance. </text>
+</string>
+<string id="novice_outfit_name">
+<text>Leather Jacket</text>
+</string>
+<string id="novice_2_outfit_description">
+<text> A simple leather jacket worn by stalkers in the Zone. It's lack of basic radiation protection and even poorer anomaly resistance make it unsuitable for artifact hunting, although it will keep the wearer's organs inside if scratched or bitten. For a little while, anyways. </text>
+</string>
+<string id="novice_2_outfit_name">
+<text>Novice Jacket</text>
+</string>
+<string id="scientific_outfit_description">
+<text> This suit was created by the Kiev Defense Research Institute and represents an excellent alternative to hand-made stalker suits. While its bulletproof vest can only stop pistol bullets, anomaly and radiation shielding is superb. Full upgradeability and two built-in artifact containers make it a popular choice among experienced stalkers. </text>
+</string>
+<string id="scientific_outfit_name">
+<text>SEVA Suit</text>
+</string>
+<string id="specops_outfit_description">
+<text> A PS5 Series special forces suit, modified for Zone operations. The PSZ-9a military bulletproof vest with beryllium coating is intended for assault operations in areas with high background radiation or low anomalous activity. Used by stalkers who managed to kill and strip a Ukrainian Army soldier. No artifact containers. </text>
+</string>
+<string id="specops_outfit_name">
+<text>Beryl-5M Special Operations Suit</text>
+</string>
+<string id="st_helm_battle_descr">
+<text> Made of aluminium/titanium alloys, this helmet is typically used by Spetznatz in conjunction with PS3-class armor. Popular in the Zone as it has a built-in gas mask and night vision goggles, in addition to an array of slots for steel plates and other upgrades. The camo cloth also looks quite stylish. </text>
+</string>
+<string id="st_helm_battle">
+<text>Sphere M12 Helmet</text>
+</string>
+<string id="st_helm_hardhat_descr">
+<text> A standard military steel helmet. Does not protect from anomalies or radiation, but can deflect a shot or two. Used widely during first faction skirmishes, it quickly fell out of use with time. </text>
+</string>
+<string id="st_helm_hardhat">
+<text>Steel Helmet</text>
+</string>
+<string id="st_helm_protective_descr">
+<text> A lightweight airtight helmet, created for military rad suits with anomaly protection in mind. Based on technology pioneered by the same Kiev Defense Research Institute that created the venerable SEVA suit. </text>
+</string>
+<string id="st_helm_protective">
+<text>Curtain Helmet</text>
+</string>
+<string id="st_helm_respirator_descr">
+<text> Standard gas mask designed to filter out radioactive dust and toxins. Widely used by both novices and veterans of all factions due to its versatility. Not designed to protect from bullets, shrapnel or other physical trauma. </text>
+</string>
+<string id="st_helm_respirator">
+<text>Respirator</text>
+</string>
+<string id="st_helm_tactic_descr">
+<text> A tactical helmet of western design, without any identifiable markings. It was designed for battle commanders who, with proper electronic gear installed, could have complete battlefield tactical information. Even without such gear, it's still a useful helmet, since it has a reinforced structure, thick Kevlar coating, gas mask and 1st generation night vision goggles. </text>
+</string>
+<string id="st_helm_tactic">
+<text>Tactical Helmet</text>
+</string>
+<string id="stalker_outfit_description">
+<text> A stalker suit manufactured by "folk craftsmen". It's an effective combination of two layers of rubberized fabric with built-in body armor. Despite the fact that it cannot stop even a pistol round, it's very popular due to its low price and upgrade potential. Equipped with a built-in container for artifacts. </text>
+</string>
+<string id="stalker_outfit_name">
+<text>Stalker Outfit</text>
+</string>
+<string id="svoboda_heavy_outfit_description">
+<text> A reinforced stalker suit produced by Freedom's gunsmiths. It consists of a military bulletproof vest plated with reinforcing Kevlar layers that can stop pistol rounds with ease. Anomaly protection is provided by the Sovereign composition the suit was dipped in. Artifact container included. </text>
+</string>
+<string id="svoboda_heavy_outfit_name">
+<text>Guardian of Freedom Armor</text>
+</string>
+<string id="svoboda_light_outfit_description">
+<text> A light stalker suit produced by Freedom's gunsmiths. It consists of a light military flak vest providing protection from small caliber weapons, a suit treated with Horizon for anomaly resistance, and reinforced artifact containers. </text>
+</string>
+<string id="svoboda_light_outfit_name">
+<text>Wind of Freedom Suit</text>
+</string>
+<string id="monolit_outfit_description">
+<text> A light Monolith suit found on dead infantry, although it's origins of producation aren't exactly known. Semi-elastic layers of Ripstop nylon provides outstanding protection against scratches and bites, while a low-grade treatment of Horizon prevents minor anomaly damage. Artifact containers included. </text>
+</string>
+<string id="monolit_outfit_name">
+<text>Monolith Outfit</text>
+</string>
+<string id="killer_outfit_scientific_description">
+<text> A Mercenary suit used during enemy confrontation within an anomalous area. Several layers of Kevlar overlapping a rubberized nylon fabric provide standard bullet and tear resistance. The built-in curtain helmet and external Nomex coating provide decent broad-spectrum anomaly protection. Equipped with an artifact container. </text>
+</string>
+<string id="killer_outfit_scientific_name">
+<text>Mercenary Suit</text>
+</string>
+<string id="monolith_outfit_scientific_description">
+<text> A very high quality suit, made from premium materials developed for use within the Zone. A curtain helmet was affixed to a type IIA grade bulletproof vest coupled with layers of Ripstop nylon, followed by a coating of Horizon and Sovereign, providing excellent all-around protection. Artifact container included. </text>
+</string>
+<string id="monolith_outfit_scientific_name">
+<text>Monolith Suit</text>
+</string>
+<string id="svoboda_scientific_outfit_description">
+<text>Standard Freedom fatigues treated with a light coat of Horizon. A bulletproof vest with layers of parachute-grade fabric and an attached curtain helmet give modest protection against most dangerous situations. Artifact container included. </text>
+</string>
+<string id="svoboda_scientific_outfit_name">
+<text>Air of Freedom</text>
+</string>
+<string id="dolg_scientific_outfit_description">
+<text> A regular SEVA suit lightly modifed for use by Duty. The closed-circuit breathing system was replaced with Duty's PSC-2h helmet for better visibility, as well as thin, Teflon-coated Kevlar sheets inserted into the vest. Used primarily to return artifacts for destruction after raids on Freedom. </text>
+</string>
+<string id="dolg_scientific_outfit_name">
+<text>PSD-3r Retriever Suit</text>
+</string>
+<string id="stalker_heavy_outfit_description">
+<text> An exoskeleton without the mechanical frame. This version is used primarily by stalkers who prefer lighter, less bulky armor and the ability to sprint at the expense of most anomaly and gunfire protection compared to a standard exoskeleton. Artifact containers included. </text>
+</string>
+<string id="stalker_heavy_outfit_name">
+<text>Exoskeleton Subframe Armor</text>
+</string>
+<string id="stalker_killer_outfit_description">
+<text> A Ukrainian military night-ops uniform without the Kevlar vest. Many of these were stolen off dead Berkut units after their first scouting ops into the Zone. Patches of affiliation were removed and is now most often seen worn by mercenaries within the Zone. Comes with reinforced artifact containers. </text>
+</string>
+<string id="stalker_killer_outfit_name">
+<text>Berkut Night-Ops Uniform</text>
+</string>
+<string id="ecolog_outfit_description">
+<text> Scientifical suits like these are very rare sights within the Zone. Most commonly issued only to top-level personnel of nuclear power plants around the world, very few have made it through the Cordon. Although bullet and tear protection is slim, the user can virtually walk through anomalies without being harmed. </text>
+</string>
+<string id="ecolog_outfit_name">
+<text>Level A CBRN Hazmat Protection</text>
+</string>
+<string id="outfit_soldier_m1_description">
+<text> Cheap and minimilastic in design, these vests were issued to thousands of army recruits training in wooded areas where the most common form of damage came from impact with surrounding objects, possible animal attacks, or even the campfire itself. No artifact containers included. </text>
+</string>
+<string id="outfit_soldier_m1_name">
+<text>Woodland Training Recruit Uniform</text>
+</string>
+<string id="st_helm_protective_dolg_descr">
+<text> A curtain helmet worn by Duty members operating around anomalies in the Zone. It was modified for attachment to the PSD-3r Retriever Suit while retaining some of it's bulletproofing and chemical resistance. </text>
+</string>
+<string id="st_helm_protective_dolg">
+<text>PSC-2h Curtain Helmet</text>
+</string>
+<string id="st_helm_respirator_gp_descr">
+<text> A mass-produced gas mask distributed widely to civilians living near nuclear power plants, most notably the CNPP. The hood is little more than a plastic bag with an elastic band at the base, while the filter keeps only the most basic of radiological and airborne particles out of the body. </text>
+</string>
+<string id="st_helm_respirator_gp">
+<text>Civilian Gas Mask</text>
+</string>
+<string id="st_helm_tactic_freedmon_descr">
+<text> Freedom's version of a tactical helmet with minor improvements. The respirator was rethreaded to allow for a more efficient filter capable of detoxifying several more harmful atmospheric chemicals and elements than the standard one. 1st generation night vision device included. </text>
+</string>
+<string id="st_helm_tactic_freedmon">
+<text>Freedom Tactical Helmet Variant No.2</text>
+</string>
+<string id="st_helm_battle_dolg_descr">
+<text> A Sphere M12 helmet, repainted and refitted for Duty use. The mask was given a thin coat of charcoal-based primer, helping to absorb some of the chemicals in the air. A wire mesh screen was also added underneath the Kevlar for psionic protection. 1st generation night vision device included. </text>
+</string>
+<string id="st_helm_battle_dolg">
+<text>PSM-12d Sphere Variant</text>
+</string>
+<string id="st_helm_respirator_pmk_descr">
+<text> Helmet/respirator combinations like these are often sold into the Zone by private military contractors after being passed up by the army. Most times it'll be because the item failed to pass required protection criterion or budget standards, but it's better than nothing. </text>
+</string>
+<string id="st_helm_respirator_pmk">
+<text>PMC Respirator</text>
+</string>
+<string id="st_helm_respirator_pmk_butcher_descr">
+<text> While most respirators in the Zone developed by private military contractors are sub-standard, this particular one was well-cared for. It's been rethreaded to accept CBRNF12B filters, greatly enhancing it's protective qualities. Also, the name 'Butcher' has been carved into the side of the helmet. </text>
+</string>
+<string id="st_helm_respirator_pmk_butcher">
+<text>Butcher's PMC Respirator</text>
+</string>
+<string id="exo_bandit_outfit_description">
+<text> An exoskeleton customized by bandits unknown. Aside from the ominous "Flying Skull" painted on the vest, many of the lighter alloys were replaced with stronger steel. The result is an extra 15 kilos of carrying capacity for robbing stalkers, at the expense of 13 kilos of added weight in materials. </text>
+</string>
+<string id="exo_bandit_outfit_name">
+<text>Bandit Exoskeleton</text>
+</string>
+<string id="military_extra_outfit_description">
+<text> An early predecessor to the Bulat armored suit, it was seen in use for urban close-quarters combat amidst cities under siege, where burning buildings and hand-to-hand combat were as common as gunfire. No artifact containers included, although it can be upgraded with some. </text>
+</string>
+<string id="military_extra_outfit_name">
+<text>Bulat CQC Variant Mk.1</text>
+</string>
+<string id="dolg_black_exoskeleton_description">
+<text> An exoskeleton of Duty design with reinforced limbs and a light coat of charcoal in between the vest's fabric for additional radiation protection. The suit weighs almost twice as much after the modifications, but it's carrying capacity is much higher than normal. Artifact container included. </text>
+</string>
+<string id="dolg_black_exoskeleton_name">
+<text>PSE-M2 Exoskeleton</text>
+</string>
+<string id="killer_blue_exoskeleton_description">
+<text> Radiation resistance was added in earnest to these exoskeletons, although at great cost. A thick vest of lead salt took up most of the room inside the mechanical frame, leaving little room for other forms of protection. Mercenaries used them during early raids into the Zone when anomalies hadn't yet been detected, and an artifact container was included soon after their discovery. </text>
+</string>
+<string id="killer_blue_exoskeleton_name">
+<text>Mercenary Exoskeleton</text>
+</string>
+<string id="exo_mvd_outfit_description">
+<text> A military exoskeleton worn by soldiers in convoys transporting heavy loads into or out of the Zone. Lighter alloy limbs were replaced with L-6 grade steel for subtantial weight carrying capacity. After the discovery of artifacts and their beneficial qualities, artifact containers were included for transport. </text>
+</string>
+<string id="exo_mvd_outfit_name">
+<text>Ukrainian MIA Transportation Armor</text>
+</string>
+<string id="monolit_exoskeleton_description">
+<text> A Monolith Preacher's exoskeleton, composed of high-quality components and materials designed for the Zone. Lead, charcoal, and Sovereign were added to the standard bulletproof vest, as well as several layers of Ripstop nylon to provide perfect splinter protection. The limbs have been replaced with carbo-titanium alloys for lightness and increased weight capacity. No included artifact containers. </text>
+</string>
+<string id="monolit_exoskeleton_name">
+<text>Monolith Preacher Exoskeleton</text>
+</string>
+</string_table> 
