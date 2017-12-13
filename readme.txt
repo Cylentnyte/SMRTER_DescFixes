@@ -1,6 +1,7 @@
 Descriptions and Misc. Fix Addon for S.M.R.T.E.R. 0.41
 
-Required Mods: SMRTER 0.41 Weapons Addon Lite
+Required Mods: SMRTER 0.41
+	       SMRTER 0.41 Weapons Addon Lite
 
 Changes:
 
